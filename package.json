@@ -21,7 +21,7 @@
     "apache-ignite-client": "^1.0.0",
     "data-forge": "^1.8.4",
     "dateformat": "^3.0.3",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-graphql": "^0.9.0",
     "graphql": "^14.6.0",
     "graphql-iso-date": "^3.6.1",
