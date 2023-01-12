@@ -19,7 +19,7 @@
   "homepage": "https://github.com/oshriva/NavHistoryql#readme",
   "dependencies": {
     "apache-ignite-client": "^1.0.0",
-    "data-forge": "^1.8.4",
+    "data-forge": "^1.9.6",
     "dateformat": "^3.0.3",
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
